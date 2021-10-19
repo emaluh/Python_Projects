@@ -17,5 +17,3 @@ i=1
 while i<=9:
     a = np.full((i),i)
     i+=1
-
-gvhjvghjvgjhvghj
