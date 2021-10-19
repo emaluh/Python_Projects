@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbf3cb8e-2b79-4000-9728-1908ed57757a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/likj.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zdfgvsdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/8ЛР.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/8ЛР.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L8_z2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L8_z1.py" beforeDir="false" afterPath="$PROJECT_DIR$/L8_z1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.likj">
+  <component name="RunManager" selected="Python.L8_z2">
     <configuration name="L8_z1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="8ЛР" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,19 +65,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Z1_v1_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="L8_z2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="8ЛР" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\admin\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Z1_v1_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/L8_z2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.L8_z2" />
         <item itemvalue="Python.likj" />
         <item itemvalue="Python.zdfgvsdf" />
         <item itemvalue="Python.L8_z1" />
         <item itemvalue="Python.Z8_v1_2" />
-        <item itemvalue="Python.Z1_v1_1" />
       </list>
     </recent_temporary>
   </component>
@@ -180,6 +176,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add task 04" />
     <MESSAGE value="ghgfhfghg" />
-    <option name="LAST_COMMIT_MESSAGE" value="ghgfhfghg" />
+    <MESSAGE value="fdhfrjh" />
+    <option name="LAST_COMMIT_MESSAGE" value="fdhfrjh" />
   </component>
 </project>
